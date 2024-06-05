@@ -1,0 +1,210 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1717546289903">
+  <folder name="css">
+    <file name="site_global.css" crc="4045940425"/>
+    <file name="index.css" crc="443463709" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-regular.woff" crc="4064254775"/>
+    <file name="montserrat-regular.eot" crc="4183730452"/>
+    <file name="montserrat-regular.svg" crc="3876397280"/>
+    <file name="montserrat-semibold.woff" crc="3925011187"/>
+    <file name="montserrat-semibold.eot" crc="103182350"/>
+    <file name="montserrat-semibold.svg" crc="253325610"/>
+    <file name="montserrat-thin.woff" crc="344506411"/>
+    <file name="montserrat-thin.eot" crc="29600166"/>
+    <file name="montserrat-thin.svg" crc="378123399"/>
+    <file name="montserrat-bold.woff" crc="4218872074"/>
+    <file name="montserrat-bold.eot" crc="4252602584"/>
+    <file name="montserrat-bold.svg" crc="463768535"/>
+    <file name="montserrat-extrabold.woff" crc="196259304"/>
+    <file name="montserrat-extrabold.eot" crc="4184726609"/>
+    <file name="montserrat-extrabold.svg" crc="466667431"/>
+    <file name="montserrat-extrabold.woff" crc="196259304"/>
+    <file name="montserrat-extrabold.eot" crc="4184726609"/>
+    <file name="montserrat-extrabold.svg" crc="466667431"/>
+    <file name="montserrat-thin.woff" crc="344506411"/>
+    <file name="montserrat-thin.eot" crc="29600166"/>
+    <file name="montserrat-thin.svg" crc="378123399"/>
+    <file name="montserrat-semibold.woff" crc="3925011187"/>
+    <file name="montserrat-semibold.eot" crc="103182350"/>
+    <file name="montserrat-semibold.svg" crc="253325610"/>
+    <file name="montserrat-regular.woff" crc="4064254775"/>
+    <file name="montserrat-regular.eot" crc="4183730452"/>
+    <file name="montserrat-regular.svg" crc="3876397280"/>
+    <file name="montserrat-bold.woff" crc="4218872074"/>
+    <file name="montserrat-bold.eot" crc="4252602584"/>
+    <file name="montserrat-bold.svg" crc="463768535"/>
+    <file name="montserrat-medium.woff" crc="231058343"/>
+    <file name="montserrat-medium.eot" crc="223995907"/>
+    <file name="montserrat-medium.svg" crc="3999315684"/>
+    <file name="roboto-bold.woff" crc="4283266641"/>
+    <file name="roboto-bold.eot" crc="173896647"/>
+    <file name="roboto-bold.svg" crc="168397312"/>
+    <file name="montserrat-light.woff" crc="447372115"/>
+    <file name="montserrat-light.eot" crc="4078296848"/>
+    <file name="montserrat-light.svg" crc="211431617"/>
+    <file name="gotham-thin.woff" crc="4186573829"/>
+    <file name="gotham-thin.eot" crc="4110136088"/>
+    <file name="gotham-thin.svg" crc="4220805475"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="form-u2889.php" crc="3909646834" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4171123967" ref="index"/>
+    <file name="mision.png" crc="4136280135" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="vision.png" crc="3895960070" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="valores.png" crc="524390032" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="consultoria.png" crc="64064164" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="desarrollo.png" crc="4258499458" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="mexico.png" crc="4277807599" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+      <caption webpage="home_english" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="backs-01.jpg" crc="186729535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backs-02.jpg" crc="4209845560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backs-10.jpg" crc="4200212448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backs-07.jpg" crc="3847561050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="log_myaco_2.svg" crc="464365786" ref="index"/>
+    <file name="log_myaco_2_poster_u1513.png" crc="3983177169" ref="index"/>
+    <file name="log_myaco_7.svg" crc="509612530" ref="index"/>
+    <file name="log_myaco_7_poster_u1529.png" crc="3855863625" ref="index"/>
+    <file name="log_myaco_1.svg" crc="3840784559" ref="index"/>
+    <file name="log_myaco_1_poster_u1543.png" crc="258379330" ref="index"/>
+    <file name="ms-05.svg" crc="4118438529" ref="index"/>
+    <file name="ms-05_poster_u2280.png" crc="4101773776" ref="index"/>
+    <file name="5map.svg" crc="495451702" ref="index"/>
+    <file name="5map_poster_u2449.png" crc="524853768" ref="index"/>
+    <file name="1tech.svg" crc="217596807" ref="index"/>
+    <file name="1tech_poster_u2429.png" crc="4257338038" ref="index"/>
+    <file name="2ciclo.svg" crc="4258888870" ref="index"/>
+    <file name="2ciclo_poster_u2693.png" crc="356402292" ref="index"/>
+    <file name="3mix.svg" crc="275965782" ref="index"/>
+    <file name="3mix_poster_u2701.png" crc="3846967432" ref="index"/>
+    <file name="4time.svg" crc="386809268" ref="index"/>
+    <file name="4time_poster_u2709.png" crc="4217760673" ref="index"/>
+    <file name="map.svg" crc="3840640686" ref="index"/>
+    <file name="map_poster_u2359.png" crc="4270197220" ref="index"/>
+    <file name="log_myaco_5.svg" crc="3806000546" ref="index"/>
+    <file name="log_myaco_5_poster_u2370.png" crc="440928883" ref="index"/>
+    <file name="mexico-u2396-fr.png" crc="496118635" ref="index"/>
+    <file name="ms-07.svg" crc="3859078914" ref="index"/>
+    <file name="ms-07_poster_u2559.png" crc="136094879" ref="index"/>
+    <file name="ms-03.svg" crc="515414702" ref="index"/>
+    <file name="ms-03_poster_u2608.png" crc="4282821638" ref="index"/>
+    <file name="6estrategia.svg" crc="4101161842" ref="index"/>
+    <file name="6estrategia_poster_u2622.png" crc="3799342383" ref="index"/>
+    <file name="7implementa.svg" crc="4009665163" ref="index"/>
+    <file name="7implementa_poster_u2639.png" crc="295008849" ref="index"/>
+    <file name="8analisis.svg" crc="4233582648" ref="index"/>
+    <file name="8analisis_poster_u2663.png" crc="55609421" ref="index"/>
+    <file name="9test.svg" crc="3909992462" ref="index"/>
+    <file name="9test_poster_u2671.png" crc="192046472" ref="index"/>
+    <file name="log_myaco_3.svg" crc="4107167373" ref="index"/>
+    <file name="log_myaco_3_poster_u2685.png" crc="518650173" ref="index"/>
+    <file name="ms-04.svg" crc="148987791" ref="index"/>
+    <file name="ms-04_poster_u2325.png" crc="4251085629" ref="index"/>
+    <file name="ms-01.svg" crc="4022886477" ref="index"/>
+    <file name="ms-01_poster_u2832.png" crc="216612735" ref="index"/>
+    <file name="10localiza.svg" crc="3925394659" ref="index"/>
+    <file name="10localiza_poster_u2877.png" crc="4039181067" ref="index"/>
+    <file name="log_myaco_11.svg" crc="3783804617" ref="index"/>
+    <file name="log_myaco_11_poster_u2956.png" crc="4001646356" ref="index"/>
+    <file name="indicador.svg" crc="4104620961" ref="index"/>
+    <file name="indicador_poster_u2996.png" crc="3850505604" ref="index"/>
+    <file name="log_myaco_8.svg" crc="4169880795" ref="index"/>
+    <file name="log_myaco_8_poster_u3019.png" crc="3836432231" ref="index"/>
+    <file name="11stafing.svg" crc="3928598866" ref="index"/>
+    <file name="11stafing_poster_u3589.png" crc="3976583247" ref="index"/>
+    <file name="12bpo.svg" crc="4016758976" ref="index"/>
+    <file name="12bpo_poster_u3622.png" crc="506485926" ref="index"/>
+    <file name="13mapeo.svg" crc="4150886078" ref="index"/>
+    <file name="13mapeo_poster_u3638.png" crc="4125474067" ref="index"/>
+    <file name="14desarrollo.svg" crc="4022875040" ref="index"/>
+    <file name="14desarrollo_poster_u3646.png" crc="4213060774" ref="index"/>
+    <file name="15data.svg" crc="4068864751" ref="index"/>
+    <file name="15data_poster_u3654.png" crc="209105975" ref="index"/>
+    <file name="16identi.svg" crc="335725863" ref="index"/>
+    <file name="16identi_poster_u3716.png" crc="3797958556" ref="index"/>
+    <file name="17analisis.svg" crc="37957759" ref="index"/>
+    <file name="17analisis_poster_u3727.png" crc="4192120084" ref="index"/>
+    <file name="18present.svg" crc="4029081269" ref="index"/>
+    <file name="18present_poster_u3738.png" crc="3903761040" ref="index"/>
+    <file name="20it.svg" crc="81315503" ref="index"/>
+    <file name="20it_poster_u4019.png" crc="388083352" ref="index"/>
+    <file name="21equipo.svg" crc="412772230" ref="index"/>
+    <file name="21equipo_poster_u4030.png" crc="4190951167" ref="index"/>
+    <file name="logo-chubb.svg" crc="103880346" ref="index"/>
+    <file name="logo-chubb_poster_u4115.png" crc="99939099" ref="index"/>
+    <file name="zurich.svg" crc="245947782" ref="index"/>
+    <file name="zurich_poster_u4150.png" crc="4265247527" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3829739077" seo="true" mt="1717546262539" redirect="true"/>
+</manifest>
