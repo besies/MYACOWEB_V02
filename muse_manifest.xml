@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1717546289903">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1717718493024">
   <folder name="css">
     <file name="site_global.css" crc="4045940425"/>
-    <file name="index.css" crc="443463709" ref="index"/>
+    <file name="index.css" crc="127708133" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-regular.woff" crc="4064254775"/>
@@ -206,5 +206,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3829739077" seo="true" mt="1717546262539" redirect="true"/>
+  <file name="index.html" crc="4172458276" seo="true" mt="1717718389279" redirect="true"/>
 </manifest>
