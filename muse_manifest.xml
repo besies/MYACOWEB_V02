@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718224273915">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718311194367">
   <folder name="css">
     <file name="site_global.css" crc="4045940425"/>
-    <file name="index.css" crc="337508154" ref="index"/>
-    <file name="ingles.css" crc="3897223566" ref="ingles"/>
-    <file name="nomq_ingles.css" crc="3864830136" ref="ingles"/>
-    <file name="nomq_index.css" crc="4255113097" ref="index"/>
+    <file name="index.css" crc="70772416" ref="index"/>
+    <file name="ingles.css" crc="380735461" ref="ingles"/>
+    <file name="nomq_ingles.css" crc="4069598814" ref="ingles"/>
+    <file name="nomq_index.css" crc="505391178" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-regular.woff" crc="4064254775"/>
@@ -346,6 +346,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ingles" alt=""/>
+      <caption webpage="ingles" alt=""/>
+      <caption webpage="ingles" alt=""/>
       <caption webpage="ingles" alt=""/>
       <caption webpage="ingles" alt=""/>
       <caption webpage="ingles" alt=""/>
@@ -367,6 +374,6 @@
     <file name="mexico-u2396-fr4.png" crc="334645029" ref="index:ingles"/>
     <file name="mexico-u11482-fr.png" crc="261094754" ref="ingles"/>
   </folder>
-  <file name="index.html" crc="3993612769" seo="true" mt="1718223199884" redirect="true"/>
-  <file name="ingles.html" crc="3967248810" seo="true" mt="1718224115386" redirect="true"/>
+  <file name="index.html" crc="4127814272" seo="true" mt="1718310340513" redirect="true"/>
+  <file name="ingles.html" crc="65030288" seo="true" mt="1718311139542" redirect="true"/>
 </manifest>
