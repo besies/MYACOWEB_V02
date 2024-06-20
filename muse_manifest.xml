@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718842085394">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718842764685">
   <folder name="css">
     <file name="site_global.css" crc="4045940425"/>
     <file name="index.css" crc="134612150" ref="index"/>
-    <file name="ingles.css" crc="77694805" ref="ingles"/>
+    <file name="ingles.css" crc="4273799321" ref="ingles"/>
     <file name="nomq_ingles.css" crc="4269452137" ref="ingles"/>
     <file name="nomq_index.css" crc="4002318926" ref="index"/>
   </folder>
@@ -61,9 +61,9 @@
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:ingles"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:ingles"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:ingles"/>
-    <file name="form_check.php" crc="4108222811" ref="index"/>
-    <file name="form_throttle.php" crc="503802655" ref="index"/>
-    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index:ingles"/>
+    <file name="form_throttle.php" crc="503802655" ref="index:ingles"/>
+    <file name="form_process.php" crc="260214869" ref="index:ingles"/>
     <file name="jquery.musemenu.js" crc="4139692962" ref="index:ingles"/>
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index:ingles"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:ingles"/>
@@ -74,7 +74,7 @@
     <file name="form-u11427.php" crc="125046920" ref="ingles"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4171123967" ref="index"/>
+    <file name="favicon.ico" crc="4171123967" ref="index:ingles"/>
     <file name="mision.png" crc="4136280135" ref="index:ingles">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -291,7 +291,7 @@
     <file name="map_poster_u2359.png" crc="4270197220" ref="index:ingles"/>
     <file name="log_myaco_5.svg" crc="3806000546" ref="index:ingles"/>
     <file name="log_myaco_5_poster_u2370.png" crc="440928883" ref="index:ingles"/>
-    <file name="mexico-u2396-fr.png" crc="496118635" ref="index:ingles"/>
+    <file name="mexico-u2396-fr.png" crc="496118635" ref="index"/>
     <file name="ms-07.svg" crc="3859078914" ref="index:ingles"/>
     <file name="ms-07_poster_u2559.png" crc="136094879" ref="index:ingles"/>
     <file name="ms-03.svg" crc="515414702" ref="index:ingles"/>
@@ -368,11 +368,15 @@
     <file name="menu_poster_u5281.png" crc="3997632718" ref="index:ingles"/>
     <file name="cerrar.svg" crc="494171557" ref="index:ingles"/>
     <file name="cerrar_poster_u5289.png" crc="4075968922" ref="index:ingles"/>
-    <file name="mexico-u2396-fr2.png" crc="384459189" ref="index:ingles"/>
-    <file name="mexico-u2396-fr3.png" crc="4023657189" ref="index:ingles"/>
-    <file name="mexico-u2396-fr4.png" crc="334645029" ref="index:ingles"/>
+    <file name="mexico-u2396-fr2.png" crc="384459189" ref="index"/>
+    <file name="mexico-u2396-fr3.png" crc="4023657189" ref="index"/>
+    <file name="mexico-u2396-fr4.png" crc="334645029" ref="index"/>
     <file name="mexico-u11482-fr.png" crc="261094754" ref="ingles"/>
+    <file name="mexico-u9349-fr.png" crc="496118635" ref="ingles"/>
+    <file name="mexico-u9349-fr2.png" crc="384459189" ref="ingles"/>
+    <file name="mexico-u9349-fr3.png" crc="4023657189" ref="ingles"/>
+    <file name="mexico-u9349-fr4.png" crc="334645029" ref="ingles"/>
   </folder>
   <file name="index.html" crc="3876273567" seo="true" mt="1718841835605" redirect="true"/>
-  <file name="ingles.html" crc="330656538" seo="true" mt="1718841876389" redirect="true"/>
+  <file name="ingles.html" crc="462445708" seo="true" mt="1718842671018" redirect="true"/>
 </manifest>
