@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718397782061">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dummy-MYACO.com" resolutions="1x" timestamp="1718842085394">
   <folder name="css">
     <file name="site_global.css" crc="4045940425"/>
-    <file name="index.css" crc="435318881" ref="index"/>
-    <file name="ingles.css" crc="477923064" ref="ingles"/>
-    <file name="nomq_ingles.css" crc="3844315194" ref="ingles"/>
-    <file name="nomq_index.css" crc="4032871293" ref="index"/>
+    <file name="index.css" crc="134612150" ref="index"/>
+    <file name="ingles.css" crc="77694805" ref="ingles"/>
+    <file name="nomq_ingles.css" crc="4269452137" ref="ingles"/>
+    <file name="nomq_index.css" crc="4002318926" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-regular.woff" crc="4064254775"/>
@@ -373,6 +373,6 @@
     <file name="mexico-u2396-fr4.png" crc="334645029" ref="index:ingles"/>
     <file name="mexico-u11482-fr.png" crc="261094754" ref="ingles"/>
   </folder>
-  <file name="index.html" crc="154602612" seo="true" mt="1718347244854" redirect="true"/>
-  <file name="ingles.html" crc="322194232" seo="true" mt="1718325108088" redirect="true"/>
+  <file name="index.html" crc="3876273567" seo="true" mt="1718841835605" redirect="true"/>
+  <file name="ingles.html" crc="330656538" seo="true" mt="1718841876389" redirect="true"/>
 </manifest>
